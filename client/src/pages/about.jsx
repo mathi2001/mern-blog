@@ -1,6 +1,9 @@
 
-export default function about() {
-  return (
-    <div>about</div>
-  )
-}
+export default function About() {
+    return (
+      <div style={{ marginTop: '0', paddingTop: '20px' }}>
+        about
+      </div>
+    );
+  }
+  
